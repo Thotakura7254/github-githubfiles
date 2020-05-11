@@ -1,0 +1,7 @@
+#include<studio.h>
+int main()
+{
+printf("Hello! I am a c_program.Thankyou!");
+return 0;
+}
+
